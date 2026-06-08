@@ -2,8 +2,9 @@
 Synthetic Sepsis Dataset Generator (v2 — realistic overlap)
 =============================================================
 Generates a physiologically plausible dataset of 2,000 patients with NEWS2
-vital signs and laboratory markers. Designed to produce classification
-difficulty comparable to real-world sepsis studies (AUROC ~0.80–0.88).
+vital signs and laboratory markers. Targets classification difficulty comparable to real-world sepsis
+   studies (AUROC ~0.80–0.88); in practice the cleaner synthetic
+   distributions push this to ~0.91 (see the README note on this gap).
 
 Key design choices for realism:
 - Latent severity factor drives all vitals → realistic inter-feature correlation
