@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![CI](https://github.com/M-Omarjee/sepsis-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/M-Omarjee/sepsis-ai/actions/workflows/ci.yml)
+[![CI](https://github.com/muhammed-healthai/sepsis-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/muhammed-healthai/sepsis-ai/actions/workflows/ci.yml)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -145,7 +145,7 @@ sepsis-ai/
 ## Quickstart
 
 ```bash
-git clone https://github.com/M-Omarjee/sepsis-ai.git
+git clone https://github.com/muhammed-healthai/sepsis-ai.git
 cd sepsis-ai
 
 # Python 3.11 virtual environment recommended
